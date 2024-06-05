@@ -34,3 +34,12 @@
 //         System.Console.WriteLine("Точка находится в IV четверти плоскости.");
 // }
 
+// Задача 3! 
+
+// System.Console.WriteLine("Введите число из отрезка [10 - 99]");
+// int num = Convert.ToInt32(Console.ReadLine());
+// int FirstDigit = num / 10;
+// int SecondDigit = num % 10;
+// int maxDigit = FirstDigit > SecondDigit ? FirstDigit : SecondDigit;
+//  Console.WriteLine(maxDigit);
+

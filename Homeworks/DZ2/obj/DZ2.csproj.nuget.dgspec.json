@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79142\\Desktop\\С#\\Homeworks\\DZ2\\DZ2.csproj": {}
+    "C:\\Users\\lexa8\\OneDrive\\Рабочий стол\\Учёба\\С#\\Csharp\\Homeworks\\DZ2\\DZ2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79142\\Desktop\\С#\\Homeworks\\DZ2\\DZ2.csproj": {
+    "C:\\Users\\lexa8\\OneDrive\\Рабочий стол\\Учёба\\С#\\Csharp\\Homeworks\\DZ2\\DZ2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79142\\Desktop\\С#\\Homeworks\\DZ2\\DZ2.csproj",
+        "projectUniqueName": "C:\\Users\\lexa8\\OneDrive\\Рабочий стол\\Учёба\\С#\\Csharp\\Homeworks\\DZ2\\DZ2.csproj",
         "projectName": "DZ2",
-        "projectPath": "C:\\Users\\79142\\Desktop\\С#\\Homeworks\\DZ2\\DZ2.csproj",
-        "packagesPath": "C:\\Users\\79142\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79142\\Desktop\\С#\\Homeworks\\DZ2\\obj\\",
+        "projectPath": "C:\\Users\\lexa8\\OneDrive\\Рабочий стол\\Учёба\\С#\\Csharp\\Homeworks\\DZ2\\DZ2.csproj",
+        "packagesPath": "C:\\Users\\lexa8\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lexa8\\OneDrive\\Рабочий стол\\Учёба\\С#\\Csharp\\Homeworks\\DZ2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\79142\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lexa8\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
